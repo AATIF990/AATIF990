@@ -1,4 +1,7 @@
-<div align="center"> 
-  <p>Visitor count</p>
-  <img src="https://profile-counter.glitch.me/{AATIF990}/count.svg" alt="Visitor's Count" />
+<div align="center">
+
+  <p>Visitor Count</p>
+
+  <img src="https://komarev.com/ghpvc/?username=AATIF990&label=VISITORS&color=00ff00&style=flat-square" alt="Visitor Count" />
+
 </div>
